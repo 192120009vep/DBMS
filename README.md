@@ -14,5 +14,7 @@
 
 ## Experiment 2 output
 ![image](https://user-images.githubusercontent.com/114173159/194110821-3ba6e0d8-2612-415d-9edf-69735cd6e5f8.png)
+![image](https://user-images.githubusercontent.com/114173159/194111120-901d8313-d5e3-4fcc-b4cf-fd2e367dd694.png)
+
 
 
