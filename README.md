@@ -21,6 +21,8 @@
 
 ## Experiment 3,4 output
 ![image](https://user-images.githubusercontent.com/114173159/194112612-0dcbfb36-5881-4f40-9303-f07da4d39ae0.png)
+![image](https://user-images.githubusercontent.com/114173159/194112783-15ae67a6-0c58-4b3f-b76d-e78f49de0bc1.png)
+
 
 
 
