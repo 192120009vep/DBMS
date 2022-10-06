@@ -57,6 +57,8 @@
 
 ## Experiment 9 output
 ![image](https://user-images.githubusercontent.com/114173159/194212966-c165c25e-3a24-49bc-94fe-39729c447a8c.png)
+![image](https://user-images.githubusercontent.com/114173159/194213202-b3373ba9-d88f-4b21-b5a4-3c72e51cf312.png)
+
 
 
 
