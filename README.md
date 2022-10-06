@@ -69,6 +69,8 @@
 
 ## Experiment 12 output
 ![image](https://user-images.githubusercontent.com/114173159/194211618-a0206ac0-2248-4a8a-9d6f-45eca8e47f92.png)
+![image](https://user-images.githubusercontent.com/114173159/194211907-b8d90a42-8679-4414-95ba-0dcae195dd2d.png)
+
 
 
 
