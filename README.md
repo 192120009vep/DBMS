@@ -105,6 +105,7 @@
 ## Experiment 25 output
 ![image](https://user-images.githubusercontent.com/114173159/194521249-139cc3c3-5880-48df-a792-7c7e002476a9.png)
 ![image](https://user-images.githubusercontent.com/114173159/194521441-bcdbf458-bd16-46d5-892b-d8f8c2d810b2.png)
+![image](https://user-images.githubusercontent.com/114173159/194521620-b49cef1c-a665-45fa-a70a-3e5f36ba8749.png)
 ![Uploading image.png…]()
 
 
