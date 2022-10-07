@@ -91,6 +91,9 @@
 ![image](https://user-images.githubusercontent.com/114173159/194517256-fd9ccdb9-7c99-4068-a7bd-f1cf688be593.png)
 ![image](https://user-images.githubusercontent.com/114173159/194517535-a789b874-5bb7-4dd5-aebb-f21a4624e333.png)
 ![image](https://user-images.githubusercontent.com/114173159/194517819-1aa30d94-c554-4db4-8773-784eba1fad2f.png)
+## Experiment 22 output
+![image](https://user-images.githubusercontent.com/114173159/194518492-df43d7d0-9dfb-488b-8eb5-06a9ee08237d.png)
+
 
 
 
