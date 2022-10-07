@@ -99,7 +99,9 @@
 ![image](https://user-images.githubusercontent.com/114173159/194519441-9f6aae8d-f5ff-473e-a2ee-db5edcda4e73.png)
 ![image](https://user-images.githubusercontent.com/114173159/194520209-378ba342-1f88-486d-bb2c-c042a8d432a0.png)
 ## Experiment 24 output
+![image](https://user-images.githubusercontent.com/114173159/194520587-bb2fb868-e45f-4342-b0bc-bd594175f971.png)
 ![Uploading image.png…]()
+
 
 
 
